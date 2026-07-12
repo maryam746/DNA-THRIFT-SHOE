@@ -1,5 +1,8 @@
 # DNA Thrift WhatsApp AI Bot
 
+## Demo Video
+[Watch the demo here](https://youtu.be/QkrcmqTZx0M)
+
 A conversational AI agent for DNA Thrift (a secondhand shoe shop) that identifies shoes from text or photos, looks them up against real inventory, and replies with name, condition-adjusted price, and availability — via WhatsApp.
 
 Built for the Khizex AI Engineering Internship, Summer 2026.
